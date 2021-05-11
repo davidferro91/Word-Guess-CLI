@@ -19,6 +19,6 @@
   "homepage": "https://github.com/davidferro91/Word-Guess-CLI#readme",
   "dependencies": {
     "inquirer": "^6.2.1",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
